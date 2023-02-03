@@ -35,6 +35,13 @@ h4 {
     
 }
 
+.Bibleproj {
+    font-size: .8em;
+    color: #999;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: bold;
+    text-decoration: underline
+}
 
 p {
     font-size: 1.1em;
